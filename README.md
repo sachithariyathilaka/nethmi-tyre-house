@@ -1,1 +1,1 @@
-Buisness Software based on java & mysql
+Buisness Software based on Java & MySql
