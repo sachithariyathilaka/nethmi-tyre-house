@@ -1,2 +1,1 @@
-# NETMI-TYRE-HOUSE
-BUISNESS SOFTWARE
+Buisness Software based on java & mysql
