@@ -1,3 +1,7 @@
 # Nethmi Tyre House
 
-Buisness Software based on Java & MySql with Netbeans
+Buisness software based on tyre shop
+
+# Technologies
+
+Java, Netbeans, MYSQL
